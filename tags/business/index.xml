@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on Rich with Agility</title>
-    <link>http://richvisotcky.com/tags/business/</link>
+    <link>http://richvisotcky.com/tags/business/index.xml</link>
     <description>Recent content in Business on Rich with Agility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rich Visotcky, All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Feb 2016 16:35:13 -0600</lastBuildDate>
     <atom:link href="http://richvisotcky.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

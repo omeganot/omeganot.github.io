@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrum.Org on Rich with Agility</title>
-    <link>http://richvisotcky.com/tags/scrum/index.org/</link>
+    <link>http://richvisotcky.com/tags/scrum.org/index.xml</link>
     <description>Recent content in Scrum.Org on Rich with Agility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rich Visotcky, All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 May 2016 23:02:58 -0500</lastBuildDate>
     <atom:link href="http://richvisotcky.com/tags/scrum.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -24,17 +23,17 @@
 
 &lt;p&gt;Below are some thoughts to help your organization the next time you gather as a community for a retrospective.&lt;/p&gt;
 
-&lt;h3 id=&#34;elect-representatives:bc3029f57c4fbc46d9f27b295ed63e70&#34;&gt;Elect representatives&lt;/h3&gt;
+&lt;h3 id=&#34;elect-representatives&#34;&gt;Elect representatives&lt;/h3&gt;
 
 &lt;p&gt;One way to keep the group size manageable is to have elected representatives from each team participate.  Each team selects members from their own team, a maximum number pre-determined by the group at large, to represent their insights and ideas to the larger audience.  This empowers teams to select a person or persons they trust to represent their ideas and empowers the individual(s) selected to take action on behalf of the team.&lt;/p&gt;
 
-&lt;h3 id=&#34;keep-the-focus-on-the-system:bc3029f57c4fbc46d9f27b295ed63e70&#34;&gt;Keep the focus on the system&lt;/h3&gt;
+&lt;h3 id=&#34;keep-the-focus-on-the-system&#34;&gt;Keep the focus on the system&lt;/h3&gt;
 
 &lt;p&gt;When having a scaled retrospective, it&amp;rsquo;s important that participants keep their discussion focused on the system as a whole.  The natural tendency for people is to bring up issues that are affecting their team.  There&amp;rsquo;s a time and place for this, and it&amp;rsquo;s in the team&amp;rsquo;s own retrospective.  Teams need time to sort out problems unique to their own group, problems which may or may not exist across the collection of teams.&lt;/p&gt;
 
 &lt;p&gt;A system focus can surface issues that one team alone may not be able to see or make much headway on.  Likewise, focusing on things which only affect the entire collective can help to remove a &amp;ldquo;that&amp;rsquo;s not my problem&amp;rdquo; attitude from attendees.  Everyone in attendance should be a part of that system, so in some way the items being discussed affect them.  By seeking to work on and improve things which affect the whole, we can improve our global capability to work towards our shared mission and goals.&lt;/p&gt;
 
-&lt;h3 id=&#34;gathering-data:bc3029f57c4fbc46d9f27b295ed63e70&#34;&gt;Gathering data&lt;/h3&gt;
+&lt;h3 id=&#34;gathering-data&#34;&gt;Gathering data&lt;/h3&gt;
 
 &lt;p&gt;For the group to figure out what they should improve, they first need to gather information.  Just like regular retrospectives, starting out with the &lt;a href=&#34;http://www.retrospectives.com/pages/retroPrimeDirective.html&#34;&gt;Retrospective Prime Directive&lt;/a&gt; can be a great way to bring everyone together to share information transparently and not turn teams against each other.&lt;/p&gt;
 
@@ -44,13 +43,13 @@
 
 &lt;p&gt;Another suggestion that co-trainer &lt;a href=&#34;http://blog.scrum.org/about-the-blog/dan-sloan/&#34;&gt;Dan Sloan&lt;/a&gt; offered up was the &lt;a href=&#34;http://www.liberatingstructures.com/1-1-2-4-all/&#34;&gt;1-2-4 All&lt;/a&gt; technique.  This activity starts off with people individually coming up with their own ideas and writing them down.  They then pair up and build on those ideas.  They pair again, now in foursomes, and develop the pair ideas further.  Finally, each foursome shares back with the group one important item from their discussion.&lt;/p&gt;
 
-&lt;h3 id=&#34;getting-to-action:bc3029f57c4fbc46d9f27b295ed63e70&#34;&gt;Getting to action&lt;/h3&gt;
+&lt;h3 id=&#34;getting-to-action&#34;&gt;Getting to action&lt;/h3&gt;
 
 &lt;p&gt;Here&amp;rsquo;s another place in which the &lt;a href=&#34;http://www.retrospectives.com/pages/retroPrimeDirective.html&#34;&gt;Retrospective Prime Directive&lt;/a&gt; comes in handy.  We must believe that the people who participated in the retrospective did the best job they could and we should honor them for that.  Decisions they made are the best they could come up with at the time, and it would at least be worth trying their actions.  We can always make another change at a later time once we&amp;rsquo;ve learned more from their plan of action.&lt;/p&gt;
 
 &lt;p&gt;Finally, when it comes down to &lt;em&gt;who&lt;/em&gt; takes on the action item(s), this does not necessarily have to be the responsibility of every member of every team.  Some action items may only require the dedicated efforts of a few individuals to make some progress and help the group out as a whole.  Teams need to give those who shoulder this responsibility the time and support needed to accomplish these goals.  It may cause strain on their specific team, yet if their efforts can provide more value to all than the cost of that struggle if will be worth it for the greater good.&lt;/p&gt;
 
-&lt;h4 id=&#34;thanks-to-the-community:bc3029f57c4fbc46d9f27b295ed63e70&#34;&gt;Thanks to the community&lt;/h4&gt;
+&lt;h4 id=&#34;thanks-to-the-community&#34;&gt;Thanks to the community&lt;/h4&gt;
 
 &lt;p&gt;This was a topic that came up among a few of my fellow &lt;a href=&#34;https://www.scrum.org/Find-a-Scrum-Trainer&#34;&gt;Scrum.org PSTs&lt;/a&gt; during a face-to-face gathering.  Our community meets several times a year in this way to deepen relationships, share knowledge, and tackle problems facing our group.  It&amp;rsquo;s wonderful to share experiences with each other, and I&amp;rsquo;m glad I can share them with you here.&lt;/p&gt;
 </description>

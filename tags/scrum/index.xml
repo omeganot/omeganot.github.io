@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrum on Rich with Agility</title>
-    <link>http://richvisotcky.com/tags/scrum/</link>
+    <link>http://richvisotcky.com/tags/scrum/index.xml</link>
     <description>Recent content in Scrum on Rich with Agility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rich Visotcky, All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Sep 2013 12:00:00 -0600</lastBuildDate>
     <atom:link href="http://richvisotcky.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -20,13 +19,13 @@
 
 &lt;p&gt;It&amp;rsquo;s always a joy to see individuals whose work involves lots of regulation come through Scrum training with questions around process, timing, documentation and so on.  These questions highlight very well that Scrum is not the waterfall process they&amp;rsquo;re accustomed to.  It makes perfect sense; the language for regulation was written when waterfall was the dominant process.  The great thing is, Scrum and compliance already work together better than you may think.&lt;/p&gt;
 
-&lt;h2 id=&#34;using-empiricism-to-our-advantage:b0107fdd8565f088ebf62f0a95c397a0&#34;&gt;Using empiricism to our advantage&lt;/h2&gt;
+&lt;h2 id=&#34;using-empiricism-to-our-advantage&#34;&gt;Using empiricism to our advantage&lt;/h2&gt;
 
 &lt;p&gt;Regulation and compliance are complex issues.  There may be contradictory, vague, or incomplete regulations causing confusion as to what needs to be done.  Adding to that, regulations often change over time so understanding the regulation and how to comply with it is continually in flux.  Scrum is a framework designed for doing complex work, so the two naturally fit together.&lt;/p&gt;
 
 &lt;p&gt;The empirical nature of Scrum gives companies inspection and adaptation points necessary to assess their progress towards compliance with a regulation.  This applies to regulations implemented in software as well as regulations that apply to how software is developed.  The company can frequently inspect the product and its process to assess compliance.  Testing suites, especially automated ones, help to ensure the software never falls out of compliance with the regulation.  Test driven development can also help ensure compliance from the beginning with built in verification.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-about-auditing:b0107fdd8565f088ebf62f0a95c397a0&#34;&gt;What about auditing?&lt;/h2&gt;
+&lt;h2 id=&#34;what-about-auditing&#34;&gt;What about auditing?&lt;/h2&gt;
 
 &lt;p&gt;Modern ALM tools offer extensive history functions for both source code and work requests which can be queried for auditing purposes.  For example, the exact point in time which the software met a specific regulation as proven through a testing suite can be identified.  Work items on the backlog can be linked to high level regulations and traced down to their implementation.&lt;/p&gt;
 

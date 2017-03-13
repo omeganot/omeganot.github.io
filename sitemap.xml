@@ -2,9 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://richvisotcky.com/</loc>
-    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://richvisotcky.com/compensate-me-appropriately</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
   </url>
   
   <url>
@@ -25,6 +24,166 @@
   <url>
     <loc>http://richvisotcky.com/regulation-compliance-with-scrum</loc>
     <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/agile/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/audit/</loc>
+    <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/business/</loc>
+    <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/business-agility/</loc>
+    <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/compensation/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/complexity/</loc>
+    <lastmod>2015-01-01T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/compliance/</loc>
+    <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/f2f/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/management/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/mastery/</loc>
+    <lastmod>2015-01-01T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/mastery/</loc>
+    <lastmod>2015-01-01T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/org-change/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/org-health/</loc>
+    <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/organizational-health/</loc>
+    <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/organizations/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/post/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/process/</loc>
+    <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/regulation/</loc>
+    <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/retrospectives/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/</loc>
+    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/scaling/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/scaling/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/scrum/</loc>
+    <lastmod>2013-09-30T12:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/scrum/index.org/</loc>
+    <lastmod>2016-05-31T23:02:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/teams/</loc>
+    <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
