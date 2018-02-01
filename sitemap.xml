@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://richvisotcky.com/tips-for-tool-selection</loc>
+    <lastmod>2018-02-01T09:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://richvisotcky.com/compensate-me-appropriately</loc>
     <lastmod>2016-06-09T21:28:04-05:00</lastmod>
   </url>
@@ -123,7 +128,7 @@
   
   <url>
     <loc>http://richvisotcky.com/post/</loc>
-    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <lastmod>2018-02-01T09:16:39-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,7 +152,7 @@
   
   <url>
     <loc>http://richvisotcky.com/</loc>
-    <lastmod>2016-06-09T21:28:04-05:00</lastmod>
+    <lastmod>2018-02-01T09:16:39-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,6 +188,18 @@
   <url>
     <loc>http://richvisotcky.com/tags/teams/</loc>
     <lastmod>2016-02-04T16:35:13-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/categories/tools/</loc>
+    <lastmod>2018-02-01T09:16:39-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://richvisotcky.com/tags/tools/</loc>
+    <lastmod>2018-02-01T09:16:39-06:00</lastmod>
     <priority>0</priority>
   </url>
   
