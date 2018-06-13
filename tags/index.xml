@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rich Visotcky, All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 May 2016 23:02:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 08:58:50 -0500</lastBuildDate>
     
 	<atom:link href="http://richvisotcky.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accountability</title>
+      <link>http://richvisotcky.com/tags/accountability/</link>
+      <pubDate>Wed, 13 Jun 2018 08:58:50 -0500</pubDate>
+      
+      <guid>http://richvisotcky.com/tags/accountability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Agile</title>
@@ -72,6 +81,15 @@
       <pubDate>Mon, 30 Sep 2013 12:00:00 -0600</pubDate>
       
       <guid>http://richvisotcky.com/tags/compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Done</title>
+      <link>http://richvisotcky.com/tags/done/</link>
+      <pubDate>Wed, 13 Jun 2018 08:58:50 -0500</pubDate>
+      
+      <guid>http://richvisotcky.com/tags/done/</guid>
       <description></description>
     </item>
     
@@ -150,14 +168,14 @@
     <item>
       <title>Scrum</title>
       <link>http://richvisotcky.com/tags/scrum/</link>
-      <pubDate>Mon, 30 Sep 2013 12:00:00 -0600</pubDate>
+      <pubDate>Wed, 13 Jun 2018 08:58:50 -0500</pubDate>
       
       <guid>http://richvisotcky.com/tags/scrum/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scrum.Org</title>
+      <title>Scrum.org</title>
       <link>http://richvisotcky.com/tags/scrum.org/</link>
       <pubDate>Tue, 31 May 2016 23:02:58 -0500</pubDate>
       
@@ -171,6 +189,15 @@
       <pubDate>Thu, 04 Feb 2016 16:35:13 -0600</pubDate>
       
       <guid>http://richvisotcky.com/tags/teams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>http://richvisotcky.com/tags/transparency/</link>
+      <pubDate>Wed, 13 Jun 2018 08:58:50 -0500</pubDate>
+      
+      <guid>http://richvisotcky.com/tags/transparency/</guid>
       <description></description>
     </item>
     

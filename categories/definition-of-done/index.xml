@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Definition of Done on Rich with Agility</title>
+    <link>http://richvisotcky.com/categories/definition-of-done/</link>
+    <description>Recent content in Definition of Done on Rich with Agility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rich Visotcky, All rights reserved.</copyright>
+    <lastBuildDate>Wed, 13 Jun 2018 08:58:50 -0500</lastBuildDate>
+    
+	<atom:link href="http://richvisotcky.com/categories/definition-of-done/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Definition of Done Helps Accountability</title>
+      <link>http://richvisotcky.com/the-definition-of-done-helps-accountability/</link>
+      <pubDate>Wed, 13 Jun 2018 08:58:50 -0500</pubDate>
+      
+      <guid>http://richvisotcky.com/the-definition-of-done-helps-accountability/</guid>
+      <description>When reading the Scrum Guide and discussing the Definition of &amp;ldquo;Done&amp;rdquo; the conversation always includes something about the Increment. After all, the Definition of &amp;ldquo;Done&amp;rdquo; facilitates transparency of the Increment. However, one thing that is often breezed over or not mentioned at all is how the accountability of roles comes into play when discussing the Definition of &amp;ldquo;Done&amp;rdquo; for a Scrum Team.
+This post is one in a multi-part series on the Definition of &amp;ldquo;Done&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
